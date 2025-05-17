@@ -4,9 +4,7 @@
 This project implements a virtual keyboard that can be controlled using hand gestures, allowing users to type without physical contact with any device. The system uses computer vision techniques to detect and track hand movements, translating specific gestures into keyboard inputs.
 
 ## Video Demo
-https://github.com/yourusername/Virtual-Keyboard-Using-Hand-Gestures/assets/demo.mp4
-
-(If the video doesn't display above, you can [download the demo video here](./demo.mp4))
+[Click here](https://github.com/yourusername/Virtual-Keyboard-Using-Hand-Gestures/blob/main/Demo.mp4) for demo video.
 
 ## Key Features
 - **Real-time hand detection**: Uses OpenCV and MediaPipe to detect and track hand landmarks
